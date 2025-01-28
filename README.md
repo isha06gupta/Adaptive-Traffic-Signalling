@@ -1,4 +1,5 @@
-# Adaptive-Traffic-SignallingOur topic aims to explore the fact of adaptive traffic signaling in cities. Often, it is noticed that the signal stays red even after people have crossed, to avoid this, this model has been made.
+# Adaptive-Traffic-Signalling
+Our topic aims to explore the fact of adaptive traffic signaling in cities. Often, it is noticed that the signal stays red even after people have crossed, to avoid this, this model has been made.
 Problem Statement:
 Traffic congestion is a problem in the recent years in various cities which leads to wasted time, higher fuel consumption further leading to pollution and unnecessary stress. Traditional traffic signals operate on fixed timings, which don't adapt to real-time conditions. This inefficiency not only causes delays but also makes it harder for emergency vehicles to navigate through intersections quickly.
 
